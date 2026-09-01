@@ -1,6 +1,6 @@
 import React from 'react'
 
-const MapMarker = () => {
+const CoreValuesCard = () => {
   return (
     <>
     
@@ -8,4 +8,4 @@ const MapMarker = () => {
   )
 }
 
-export default MapMarker
+export default CoreValuesCard
